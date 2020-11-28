@@ -1,0 +1,2202 @@
+[
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19197,
+                "doc_id": 13
+            }
+        ],
+        "response": "I'm sorry, they do not have halal food. Would you like to make a reservation?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 21
+            }
+        ],
+        "response": "There is a lot to park in, though there may be a fee. Please check at the station. What else can I tell you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 19
+            }
+        ],
+        "response": "Smoking isn't allowed on the train. Would you like me to book the train?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 4,
+                "doc_id": 9
+            }
+        ],
+        "response": "Free Wifi is available at the Alpha-Milton Guest House for its stayers. Should I go ahead and book it for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 19
+            }
+        ],
+        "response": "No, I'm afraid there's no smoking. Does that still work for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 17
+            }
+        ],
+        "response": "You may bring a folding bike onboard the train.  Non folding bikes must park at the station. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "If the reason for cancelling is anything other than a cancelled or delayed train there is 12 GBP fee. Would you like me to book that for you now?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 23
+            }
+        ],
+        "response": "Yes there is bike parking at the train station. Is there anything else I can help you with?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "You will receive the confirmation via text message. Is there anything else I can assist you with?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 4,
+                "doc_id": 36
+            }
+        ],
+        "response": "Yes, there is a laundry facility on site. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19272,
+                "doc_id": 12
+            }
+        ],
+        "response": "Pipasha Restaurant does not allow customers to BYOB. Can I answer anything else for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "Sorry, Amex is not an accepted form of payment. Would you like to make a reservation?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 3
+            }
+        ],
+        "response": "As long as you cancel up to 24 hours in advance.  Only minor changes can be made after that. Did you need information about anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "Actually you will receive a text confirmation shortly Will you be needing anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 8
+            }
+        ],
+        "response": "Tickets are printed at the ticket machines at the station. Can I help you with anything more?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 11
+            }
+        ],
+        "response": "Basic Wifi service is available under the ID GreatNorthern_WiFi. Is there anything else I can help you with today?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "You will recieve a text confirmation very shortly. Can I help you with anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "Yes, cash, Visa, and MasterCard are accepted, along with major debit cards. Can I do anything else for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "You will receive your booking confirmation via text. Can I assist you with anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 23
+            }
+        ],
+        "response": "Yes there is a section for parking bikes. Would you like to finish this conversation?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 16,
+                "doc_id": 33
+            }
+        ],
+        "response": "No, there is no smoking on the property of the Express by Holiday Inn Cambridge. Can I help you with anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 6
+            }
+        ],
+        "response": "You can't change your ticket, but you can get a refund and buy another one. So I can help you with other things concerning your visit--anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "All booking confirmations are only sent through text messages. Is that everything you'd like to know about our taxi services?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "Yes, you can pay fro your taxi with your credit card. Is this all for you today?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 21
+            }
+        ],
+        "response": "Each train station will have designated parking but the fees differ so you should check with your station. Did you have any additional questions?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 17
+            }
+        ],
+        "response": "Yes, but folding bikes are the only type allowed on board. Can I help you with anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 12
+            }
+        ],
+        "response": "wifi is free to you available any other questions?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 11
+            }
+        ],
+        "response": "There's wifi on this train.  ID is GreatNorthern_WiFi. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "Absolutely! We accept all major cards now! Can I tell you more specifics?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 11
+            }
+        ],
+        "response": "There is basic wifi on the train. What else do you need to know?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 12,
+                "doc_id": 20
+            }
+        ],
+        "response": "yes the hours available  are 8am to 10pm Would you like to continue?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 22
+            }
+        ],
+        "response": "Parking fees vary from station to station. Do you require any more assistance?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "Yes, Mastercard will be accepted as will Visa. Anything else I can assist you with in your visit to our city?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "Confirmation of bookings is delivered by text instead of by post. Do you have any other questions?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 21
+            }
+        ],
+        "response": "Yes, the station has parking but there might be a fee. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "Yes you will get a confirmation with a text message. Do you have any other concerns?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 24
+            }
+        ],
+        "response": "Bicycle parking is free weekdays (daytime hours), however overnight and weekend charges apply. Do you require any further assistance?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "Yes, you may pay with a MasterCard. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "Confirmation of your booking is delivered by text, for your reference. I hope that answered your question?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "Yes, a full refund is available for a delayed or cancelled train, otherwise you pay 12gbp Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 3
+            }
+        ],
+        "response": "You can cancel 24 hours in advance. After that only minor changes can be made. Would you like any more information?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 6780,
+                "doc_id": 10
+            }
+        ],
+        "response": "Galleria doesn't offer live music at this time. Will you needing a reservation?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "it will be sent via text anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 20
+            }
+        ],
+        "response": "It opens at 5 on Monday-Saturday, and 7 on Sunday. What else can I help you with?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 5
+            }
+        ],
+        "response": "It will but you must go to the ticket office there to get a physical ticket for your ride. Do you have any further questions?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "Confirmation of bookings is delivered by text instead of in writing. Do you require any further assistance?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 11
+            }
+        ],
+        "response": "Basic WiFi services are offered on this train. Does that sound good?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 6780,
+                "doc_id": 5
+            }
+        ],
+        "response": "Yes, there are gluten free options. Would you like to book a table?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 6
+            }
+        ],
+        "response": "To make changes, requires purchasing another ticket. Refunds for original tickets purchased available. Is there anything else I can assist you with?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "Sorry, Amex is not an accepted form of payment. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 29,
+                "doc_id": 17
+            }
+        ],
+        "response": "You are able to bring your grandson. Would you like me to book a reservation?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 29,
+                "doc_id": 5
+            }
+        ],
+        "response": "Pets are not to be permitted at the Lensfield Hotel. Where will you be departing from?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 21
+            }
+        ],
+        "response": "Parking is available.  Please contact your local station for fee information. Did you need any suggestions about places to visit during your trip?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 12
+            }
+        ],
+        "response": "Wifi is available and free of charge. Would you like to book a ticket?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 23
+            }
+        ],
+        "response": "I am not sure if there is a fee to park your bike. Is there anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 3,
+                "doc_id": 8
+            }
+        ],
+        "response": "Street parking is available and no reservation is required. Do you have any other needs?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 3,
+                "doc_id": 35
+            }
+        ],
+        "response": "There is laundry but no dry cleaning offerred. Do you need anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "Yes, kids under 5 travel free, for those 5 to 16 the fare is 50% off. Would that work for you?  Where will you depart from?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 22
+            }
+        ],
+        "response": "The parking fee depends on what station you are at. Is there anything else that I can help you with?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 6
+            }
+        ],
+        "response": "You'd have to cancel it for a refund and reserve another ticket. Would you like me to answer more questions about the train?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 1,
+                "doc_id": 7
+            }
+        ],
+        "response": "You are not permitted to smoke anywhere on the property. May I assist you with anything further?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 1,
+                "doc_id": 29
+            }
+        ],
+        "response": "No, the entire premises is off limits to smoking so there is no designated smoking area. When do you want to arrive?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 19,
+                "doc_id": 24
+            }
+        ],
+        "response": "10:30 is the check out time. How does that sound to you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 19,
+                "doc_id": 36
+            }
+        ],
+        "response": "Shuttle service is not currently be offered. What else do you need?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 18
+            }
+        ],
+        "response": "Yes, as long as they can be carried in a basket size 85x60x60cm. Does that work for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 22
+            }
+        ],
+        "response": "You need to check at the local station as the parking fees are different. Shall I proceed with the booking?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19171,
+                "doc_id": 3
+            }
+        ],
+        "response": "Yes, the restaurant does accept AMEX. Is that all for you today?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 11
+            }
+        ],
+        "response": "Yes, basic WiFi is provided. Use GreatNorthern_WiFi as the ID. Shall I book your ticket?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 17
+            }
+        ],
+        "response": "The train does allow folding bikes, but non-folding ones must be parked at the station. Would you like to make a reservation for the train?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 12
+            }
+        ],
+        "response": "The WiFi on this train is free to access. Do you need anything else from me?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 14
+            }
+        ],
+        "response": "No additional data can be purchased for the train. Is there anything else I can do for you today?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19229,
+                "doc_id": 10
+            }
+        ],
+        "response": "No, Ask Restaurant has no alcohol in it. Would you like me to book the reservation for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 12
+            }
+        ],
+        "response": "Wi-Fi is completely free here for use. Will you be needing anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 7
+            }
+        ],
+        "response": "Yes, they accept a variety of major credit cards. How many seats are you going to need?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 12482,
+                "doc_id": 1
+            }
+        ],
+        "response": "You may pay using Mastercard and other major cards. Would you like to know more about the train?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 11
+            }
+        ],
+        "response": "The train has basic WiFi service. Is there anything else you want know about the train?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 15
+            }
+        ],
+        "response": "Yes, they offer travel service assistance and wheelchair accessibility on all trains. Would you like me to reserve your ticket now?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 2,
+                "doc_id": 13
+            }
+        ],
+        "response": "No, B&B doesn't has any designated smoking area. Is there anything else you want to know?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 7
+            }
+        ],
+        "response": "Yes, Master Cards are accepted at ticket machines and the ticket office. Would you like to book now?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 22
+            }
+        ],
+        "response": "Parking fees vary for every station. You will need to contact the station yourself. Would you like to book a ticket?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 7
+            }
+        ],
+        "response": "Yes, all major credit cards are accepted. Would you like me to book your passage?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 10
+            }
+        ],
+        "response": "You will get an email confirmation once the booking is complete. Anything else I can help you with?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 16
+            }
+        ],
+        "response": "Wheelchairs are allowed and must weigh less than 300 kg and be smaller than 70x120 cm. Is there anything else I can do for you today?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "There is a 12 GBP fee unless the train is delayed. Would you like to know more about the place?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 19
+            }
+        ],
+        "response": "No, smoking is not allowed on the train. Can I help with something else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 6
+            }
+        ],
+        "response": "You have to apply for a refund first then get another ticket. Will you be needing anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 23
+            }
+        ],
+        "response": "The station does have bike parking facilities. Would you like to make a reservation for the train?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19266,
+                "doc_id": 3
+            }
+        ],
+        "response": "Yes, the restaurant has vegetarian options. Would you like to book a table?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 23
+            }
+        ],
+        "response": "Bike parking is available at the train station. Would you like to know more about that particular train?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 21
+            }
+        ],
+        "response": "Yes, you may park your car at the station, for a fee maybe. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 17
+            }
+        ],
+        "response": "Yes, but they have to be the folding type. Interested in other things from me?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 18
+            }
+        ],
+        "response": "You should be able to fit your pet into a basket of 85x60x60cm. Is there anything else you need assistance with?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 10
+            }
+        ],
+        "response": "You will receive a confirmation after the booking via email. Would you like to make a reservation for the train?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "You will get a booking confirmation through text message in a moment. Do you need me to help with anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 16
+            }
+        ],
+        "response": "Yes, as long as you have a manual or powered wheelchair that's smaller than 70x120cm and under 300 kilograms. Do you have any other questions for me?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 3
+            }
+        ],
+        "response": "no, there's no seat reservation accepted on the train. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19192,
+                "doc_id": 10
+            }
+        ],
+        "response": "Delivery service is not currently available. Do you need any other information?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 16
+            }
+        ],
+        "response": "Yes, as long as your wheelchair is smaller than 70x120cm and lighter than 300 kg. Would you like to make a reservation?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 7
+            }
+        ],
+        "response": "You may pay with cash, but you must visit the ticket office of our station. Would you like to know any other information for the booking?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 10,
+                "doc_id": 29
+            }
+        ],
+        "response": "Sorry, they do not have a special smoking area for guests here. Do you want me to assist with anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 6,
+                "doc_id": 16
+            }
+        ],
+        "response": "You can check in beginning at 2 pm. Would you like me to make a reservation at this hotel for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 6,
+                "doc_id": 13
+            }
+        ],
+        "response": "No, there's no safety deposit boxes in the rooms. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 8
+            }
+        ],
+        "response": "You may do so from any train station ticket machine. Is there any other information that you need?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 23
+            }
+        ],
+        "response": "Yes, you will be able to park your bike on site. Do you want to book?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 8,
+                "doc_id": 10
+            }
+        ],
+        "response": "No, there is no need to make a reservation to park. Should i make the reservation now?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 8,
+                "doc_id": 34
+            }
+        ],
+        "response": "The Autumn House has a 50% non refundable security deposit. What else do you need to know?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19213,
+                "doc_id": 4
+            }
+        ],
+        "response": "Pizza Express does offer gluten free dishes. Do you think you would be interested in dining there?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "Yes, we'll send a confirmation by text message. Is there anything else I can help with?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 6
+            }
+        ],
+        "response": "Unfortunately, you would have to purchase a different ticket and request a refund. Would I be able to book for you today?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 23
+            }
+        ],
+        "response": "Bike parking is available at this location. Can I help you with something else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "It's 50% off if he is between 5 to 16 years old, and free if under 5. Would you like to book under that discount for the 19:09 arrival?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 25,
+                "doc_id": 5
+            }
+        ],
+        "response": "No rooms have disability access at this time. Do you need me to start a booking?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 25,
+                "doc_id": 25
+            }
+        ],
+        "response": "I'm afraid children are not allowed at this hotel. Would you like to make a reservation?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 21
+            }
+        ],
+        "response": "Yes, there is parking at the station but there may be a fee. Is there anything else I can help you with today?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "You can get a full refund if the train is cancelled, otherwise there is a 12 GBP fee. Would you like me to book that train for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 25,
+                "doc_id": 24
+            }
+        ],
+        "response": "Check out can be at 12 at the latest. Anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 11
+            }
+        ],
+        "response": "There's wifi on this train.  ID is GreatNorthern_WiFi. Would you like to make a reservation?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 6
+            }
+        ],
+        "response": "No, you need to apply for a refund and buy another ticket. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "Customer-requested cancellations are charged 12 GBP. Do you require any further assistance?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19192,
+                "doc_id": 12
+            }
+        ],
+        "response": "No, Good Luck Chinese Food Takeaway does not serve alcohol. Is there anything else I can help you with?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 22
+            }
+        ],
+        "response": "Parking fees may vary by station. Check with your local station. Where are you departing from?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 8
+            }
+        ],
+        "response": "You may pick up a physical ticket from the ticket machine at any train station. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 24
+            }
+        ],
+        "response": "Parking is free during the day with a 5 GBP fee for overnight parking and 10 GBP for weekends. Is there anything else you would like to know?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 1,
+                "doc_id": 23
+            }
+        ],
+        "response": "Parking reservations aren't required at Acorn Guest House right now. Is there anything else I can help you with?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 14
+            }
+        ],
+        "response": "Unfortunately, you won't be able to buy more data. Can I help with anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 21
+            }
+        ],
+        "response": "You can park at the station, but fees vary from station to station. Would you like to proceed with the booking?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19180,
+                "doc_id": 12
+            }
+        ],
+        "response": "No you cannot BYOB at Kohinoor. Is there anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 8
+            }
+        ],
+        "response": "You may pick up your ticket from the ticket machine at any train station. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "Yes, the taxi service accepts cash as payment for services. Does that help answer all of your questions?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "Customer cancellations incur a 12 GBP charge, while canceled and delayed trains are refunded. Should we proceed with the booking?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 10
+            }
+        ],
+        "response": "Once the booking is complete, you will get a confirming email. I hope that's o.k.; any other questions about the train?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 11
+            }
+        ],
+        "response": "Basic wi-fi service is available for passengers. Can I be of any other assistance?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 21
+            }
+        ],
+        "response": "Parking is available with a fee, depending on the station. Can I book you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 6
+            }
+        ],
+        "response": "Changes are not allowed.  You'll have to purchase another ticket. Anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 21
+            }
+        ],
+        "response": "You are able to park at a station. You need to verify with your station. Can I do anything else for you today?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 22
+            }
+        ],
+        "response": "Yes, there is a fee for parking your car at the train station.  The fee varies by station. Would you like to make a reservation?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 11
+            }
+        ],
+        "response": "Fortunately, there is basic WIFI offered on the train, the access ID is: GreatNorthern_WIFI. Would you like me to book a seat for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 22
+            }
+        ],
+        "response": "The parking fee may vary for each station, so check the prices at each station. Do you have anymore questions?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 11
+            }
+        ],
+        "response": "Yes, there's wifi on the train.  The Id is GreatNorthern_WiFi. Anything else for you today?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 7
+            }
+        ],
+        "response": "Yes major credit cards are accepted included Visa, Master Care and American Express. Would you like me to book it for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "If you cancel there is a fee of 12 GBP. Would you like to go ahead and reserve?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 12
+            }
+        ],
+        "response": "WiFi is available on the train free of charge. Any other questions about the train service?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 19
+            }
+        ],
+        "response": "No. Smoking is not allowed on any train. Does that answer your questions?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 16
+            }
+        ],
+        "response": "If the wheelchair is a manual/powered wheelchair, weighs less than 300 kilograms, and is smaller than 70 x 120cm. Would you like me to book it for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 24
+            }
+        ],
+        "response": "There is only a fee if you park your bike overnight on weekdays or on weekends. Do you have other questions?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 21
+            }
+        ],
+        "response": "Yes, there are parking facilities at the station. Please contact them directly for fees. Would you like me to continue to booking your restaurant reservation?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19171,
+                "doc_id": 14
+            }
+        ],
+        "response": "There are no Halal dietary options served at COTTO. Would you like a reservation with them?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 6
+            }
+        ],
+        "response": "You would need to request a refund and buy a new ticket. Do you want me to purchase any tickets for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 3,
+                "doc_id": 8
+            }
+        ],
+        "response": "No Reservation is required for street parking. Can I book you a room at the Allenbell?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "Yes, but there is a fee of 12 GBP. Do you have any other questions about travel?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 12,
+                "doc_id": 1
+            }
+        ],
+        "response": "yes, that is available there at the hotel Do you need anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 5,
+                "doc_id": 11
+            }
+        ],
+        "response": "Between 4pm to 9pm, you can check in. Will that be all for today?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 6
+            }
+        ],
+        "response": "You have to apply for a refund first then get another ticket. Will you be needing a booking?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 6
+            }
+        ],
+        "response": "No, you have to purchase another ticket and have to apply for refund. Do you want to know anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 12
+            }
+        ],
+        "response": "There is no charge for the use of WiFi service. Please let me know if you have any other concerns."
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 14
+            }
+        ],
+        "response": "Unfortunately they do not allow additional data to be purchased. Is there anything else that you would like to know about the train trip?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 14
+            }
+        ],
+        "response": "Unfortunately, it's not possible to purchase additional onboard wi-fi data. Shall we proceed with your booking then?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 19
+            }
+        ],
+        "response": "Smoking is prohibited on the train. Do you have any other questions about your trip?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 12
+            }
+        ],
+        "response": "Wifi is free of charge for its guests. What else would you like to know?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 18,
+                "doc_id": 27
+            }
+        ],
+        "response": "The Gonville Hotel does offer WiFi for guests. Can I answer any other questions for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "There is a fee of 12 GPB fee for cancelling. Do you need anything else for this train reservation?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 18,
+                "doc_id": 4
+            }
+        ],
+        "response": "Check out time is by 11:00 at the Gonville Hotel. Do you need assistance with anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19256,
+                "doc_id": 4
+            }
+        ],
+        "response": "The outdoor seating is not available there Do you need anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 9,
+                "doc_id": 3
+            }
+        ],
+        "response": "Avalon takes Visa, mastercard, American Express, Maestro, and sold as forms of payment. Would you like to book here?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 7
+            }
+        ],
+        "response": "Yes, you can pay using American Express. Do you want me to book the hotel for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 21
+            }
+        ],
+        "response": "Parking fees vary depending on the station. You would have to check with your local station for fees. What else can I help you with today?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "Yes, you can cancel your train for 12 GBP, though you'll be fully refunded for delayed or cancelled trains. Do you want to make a reservation?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 27,
+                "doc_id": 16
+            }
+        ],
+        "response": "Rosa's bed and breakfast does not have any kind of daily housekeeping servies. Should I book this for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 23
+            }
+        ],
+        "response": "Yes, there is a place for you to park your bike. Do you need anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 10
+            }
+        ],
+        "response": "You should receive an email confirmation upon complete booking. Is there anything else I need to address?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 7
+            }
+        ],
+        "response": "If you want to pay with cash, you need to go to the ticket office in your station. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 31390,
+                "doc_id": 0
+            }
+        ],
+        "response": "There is no Wi-Fi available at this restaurant. Do you have any more questions for me?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 8
+            }
+        ],
+        "response": "Tickets can be collected from any ticket station. Do you need me to book a ticket?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 2
+            }
+        ],
+        "response": "Yes, there is a 10% discount for people over 65 years old. Do you want me to book for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 11
+            }
+        ],
+        "response": "The train offers basic wifi service at GreatNorthern_WiFi. Is that information useful for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 14
+            }
+        ],
+        "response": "Sorry, you cannot purchase additional WiFi. Do you need help with anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 8
+            }
+        ],
+        "response": "You can collect the train ticket at any station. Do you need any other information?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 6
+            }
+        ],
+        "response": "No, you must apply for a refund and then purchase a ticket. Would you like me to proceed with the booking?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 31,
+                "doc_id": 28
+            }
+        ],
+        "response": "Warkworth House does not have dry cleaning services available. Would you still like to book a room?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 31,
+                "doc_id": 35
+            }
+        ],
+        "response": "Yes, but only a microwave is available. Does this work out for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 11
+            }
+        ],
+        "response": "Yes, the train does offer wifi.  Log on with the ID GreatNorthern_WiFi. Anything else for you today?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 20
+            }
+        ],
+        "response": "The station in Cambridge opens at 5:00 am daily and at 7:00 on Sundays. Would you like to book your train tickets?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 10
+            }
+        ],
+        "response": "Our confirmations are sent by email once booking is completed. Is there anything else you need to know?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 16
+            }
+        ],
+        "response": "Yes, as long as the wheelchair is of a certain size, you can ride it on the train. Do you need me to book it for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 31,
+                "doc_id": 2
+            }
+        ],
+        "response": "No, this is a non-smoking establishment with no smoking area. Would you still like to book a room?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 23
+            }
+        ],
+        "response": "Bike parking is available at the train station. Do you want me to make a booking for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 16
+            }
+        ],
+        "response": "It must be smaller than 70x120 cm and lighter than 300 kg. Do you have any other questions?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 2
+            }
+        ],
+        "response": "You can cancel up to 24 hours before the booking, after that you may incur a fee. What else are you going to need?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 11
+            }
+        ],
+        "response": "There's wifi on this train.  ID is GreatNorthern_WiFi. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 8
+            }
+        ],
+        "response": "You can get your ticket from any of the ticket machines at the station. Anything else I can help you with?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 21
+            }
+        ],
+        "response": "You can park at the train station, but it may cost you a fee. When will you be leaving?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "taxi",
+                "entity_id": "*",
+                "doc_id": 1
+            }
+        ],
+        "response": "You will get a booking confirmation through text message. Can I help you with anything further?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19246,
+                "doc_id": 9
+            }
+        ],
+        "response": "Unfortunately Peking restaurant does not have outdoor seating. Did you need anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19246,
+                "doc_id": 12
+            }
+        ],
+        "response": "No, the menu does not have any gluten free options. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 12
+            }
+        ],
+        "response": "You will be able to use WiFi for free on the train. Would you like me to book the train for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 4
+            }
+        ],
+        "response": "There is a 12 GBP cancellation charge for a refund unless the train is cancelled or delayed. Would you like help with anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 5,
+                "doc_id": 23
+            }
+        ],
+        "response": "No, Arbury Lodge Guesthouse does not have meeting or banquet facilities onsite. Anything else I can do for you?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "hotel",
+                "entity_id": 17,
+                "doc_id": 18
+            }
+        ],
+        "response": "Its a small place, so ther is no luggage storage. Do you need anything else?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "train",
+                "entity_id": "*",
+                "doc_id": 8
+            }
+        ],
+        "response": "You can get your ticket from a ticket machine at any station. Do you have any other questions?"
+    },
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 19183,
+                "doc_id": 1
+            }
+        ],
+        "response": "Yes there are halal options on the menu. What day and time would you like your reservation and how many people will attend?"
+    }
+]
