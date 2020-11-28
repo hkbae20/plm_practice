@@ -7,9 +7,9 @@ import sys
 from itertools import chain
 from tqdm.notebook import tqdm
 
-from utils.data import pad_ids, truncate_sequences
-from scripts.dataset_walker import DatasetWalker
-from scripts.knowledge_reader import KnowledgeReader
+from .utils.data import pad_ids, truncate_sequences
+from .scripts.dataset_walker import DatasetWalker
+from .scripts.knowledge_reader import KnowledgeReader
 
 import torch
 
