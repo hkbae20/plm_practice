@@ -7,9 +7,9 @@ import sys
 from itertools import chain
 from tqdm.notebook import tqdm
 
-from .utils.data import pad_ids, truncate_sequences
-from .scripts.dataset_walker import DatasetWalker
-from .scripts.knowledge_reader import KnowledgeReader
+from utils.data import pad_ids, truncate_sequences
+from scripts.dataset_walker import DatasetWalker
+from scripts.knowledge_reader import KnowledgeReader
 
 import torch
 
@@ -35,7 +35,6 @@ class BaseDataset(torch.utils.data.Dataset):
         self.SPECIAL_TOKENS_VALUES = SPECIAL_TOKENS_VALUES
         self.bos = self.tokenizer.convert_tokens_to_ids(self.SPECIAL_TOKENS["bos_token"])
         self.eos = self.tokenizer.convert_tokens_to_ids(self.SPECIAL_TOKENS["eos_token"])
-        self.pad = self.tokenizer.convert_tokens_to_ids(self.SPECIAL_TOKENS["pad_token"])
         self.speaker1, self.speaker2, self.knowledge_sep, self.knowledge_tag = self.tokenizer.convert_tokens_to_ids(
             self.SPECIAL_TOKENS["additional_special_tokens"]
         )
@@ -192,8 +191,8 @@ class ResponseGenerationDataset(BaseDataset):
         token_type_ids = [ins["token_type_ids"] for ins in batch]
         lm_labels = [ins["lm_labels"] for ins in batch]
 
-        input_ids = torch.tensor(pad_ids(input_ids, self.pad))
-        token_type_ids = torch.tensor(pad_ids(token_type_ids, self.pad))
+        input_ids = torch.tensor(pad_ids(input_ids, self.tokenizer.pad_token_id))
+        token_type_ids = torch.tensor(pad_ids(token_type_ids, self.tokenizer.pad_token_type_id))
         lm_labels = torch.tensor(pad_ids(lm_labels, -100))
 
         return input_ids, token_type_ids, lm_labels
@@ -312,11 +311,11 @@ class KnowledgeSelectionDataset(BaseDataset):
         batch_size = len(batch)
         n_candidates = len(batch[0]["input_ids"])
         input_ids = torch.tensor(
-            pad_ids(input_ids, self.pad)
+            pad_ids(input_ids, self.tokenizer.pad_token_id)
         ).view(batch_size, n_candidates, -1)
 
         token_type_ids = torch.tensor(
-            pad_ids(token_type_ids, self.pad)
+            pad_ids(token_type_ids, self.tokenizer.pad_token_type_id)
         ).view(batch_size, n_candidates, -1)
 
         lm_labels = torch.full_like(input_ids, -100)

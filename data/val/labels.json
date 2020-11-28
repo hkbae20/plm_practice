@@ -91,17 +91,6 @@
         "target": true,
         "knowledge": [
             {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 1
-            }
-        ],
-        "response": "You will receive the confirmation via text message. Is there anything else I can assist you with?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
                 "domain": "hotel",
                 "entity_id": 4,
                 "doc_id": 36
@@ -124,39 +113,6 @@
         "target": true,
         "knowledge": [
             {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 4
-            }
-        ],
-        "response": "Sorry, Amex is not an accepted form of payment. Would you like to make a reservation?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 3
-            }
-        ],
-        "response": "As long as you cancel up to 24 hours in advance.  Only minor changes can be made after that. Did you need information about anything else?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 1
-            }
-        ],
-        "response": "Actually you will receive a text confirmation shortly Will you be needing anything else?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
                 "domain": "train",
                 "entity_id": "*",
                 "doc_id": 8
@@ -174,39 +130,6 @@
             }
         ],
         "response": "Basic Wifi service is available under the ID GreatNorthern_WiFi. Is there anything else I can help you with today?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 1
-            }
-        ],
-        "response": "You will recieve a text confirmation very shortly. Can I help you with anything else?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 4
-            }
-        ],
-        "response": "Yes, cash, Visa, and MasterCard are accepted, along with major debit cards. Can I do anything else for you?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 1
-            }
-        ],
-        "response": "You will receive your booking confirmation via text. Can I assist you with anything else?"
     },
     {
         "target": true,
@@ -240,28 +163,6 @@
             }
         ],
         "response": "You can't change your ticket, but you can get a refund and buy another one. So I can help you with other things concerning your visit--anything else?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 1
-            }
-        ],
-        "response": "All booking confirmations are only sent through text messages. Is that everything you'd like to know about our taxi services?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 4
-            }
-        ],
-        "response": "Yes, you can pay fro your taxi with your credit card. Is this all for you today?"
     },
     {
         "target": true,
@@ -311,17 +212,6 @@
         "target": true,
         "knowledge": [
             {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 4
-            }
-        ],
-        "response": "Absolutely! We accept all major cards now! Can I tell you more specifics?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
                 "domain": "train",
                 "entity_id": "*",
                 "doc_id": 11
@@ -355,45 +245,12 @@
         "target": true,
         "knowledge": [
             {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 4
-            }
-        ],
-        "response": "Yes, Mastercard will be accepted as will Visa. Anything else I can assist you with in your visit to our city?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 1
-            }
-        ],
-        "response": "Confirmation of bookings is delivered by text instead of by post. Do you have any other questions?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
                 "domain": "train",
                 "entity_id": "*",
                 "doc_id": 21
             }
         ],
         "response": "Yes, the station has parking but there might be a fee. Anything else I can do for you?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 1
-            }
-        ],
-        "response": "Yes you will get a confirmation with a text message. Do you have any other concerns?"
     },
     {
         "target": true,
@@ -410,28 +267,6 @@
         "target": true,
         "knowledge": [
             {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 4
-            }
-        ],
-        "response": "Yes, you may pay with a MasterCard. Anything else I can do for you?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 1
-            }
-        ],
-        "response": "Confirmation of your booking is delivered by text, for your reference. I hope that answered your question?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
                 "domain": "train",
                 "entity_id": "*",
                 "doc_id": 4
@@ -443,34 +278,12 @@
         "target": true,
         "knowledge": [
             {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 3
-            }
-        ],
-        "response": "You can cancel 24 hours in advance. After that only minor changes can be made. Would you like any more information?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
                 "domain": "restaurant",
                 "entity_id": 6780,
                 "doc_id": 10
             }
         ],
         "response": "Galleria doesn't offer live music at this time. Will you needing a reservation?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 1
-            }
-        ],
-        "response": "it will be sent via text anything else?"
     },
     {
         "target": true,
@@ -493,17 +306,6 @@
             }
         ],
         "response": "It will but you must go to the ticket office there to get a physical ticket for your ride. Do you have any further questions?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 1
-            }
-        ],
-        "response": "Confirmation of bookings is delivered by text instead of in writing. Do you require any further assistance?"
     },
     {
         "target": true,
@@ -537,17 +339,6 @@
             }
         ],
         "response": "To make changes, requires purchasing another ticket. Refunds for original tickets purchased available. Is there anything else I can assist you with?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 4
-            }
-        ],
-        "response": "Sorry, Amex is not an accepted form of payment. Anything else I can do for you?"
     },
     {
         "target": true,
@@ -1026,17 +817,6 @@
         "target": true,
         "knowledge": [
             {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 1
-            }
-        ],
-        "response": "You will get a booking confirmation through text message in a moment. Do you need me to help with anything else?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
                 "domain": "train",
                 "entity_id": "*",
                 "doc_id": 16
@@ -1175,17 +955,6 @@
             }
         ],
         "response": "Pizza Express does offer gluten free dishes. Do you think you would be interested in dining there?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 1
-            }
-        ],
-        "response": "Yes, we'll send a confirmation by text message. Is there anything else I can help with?"
     },
     {
         "target": true,
@@ -1406,17 +1175,6 @@
             }
         ],
         "response": "You may pick up your ticket from the ticket machine at any train station. Anything else I can do for you?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 4
-            }
-        ],
-        "response": "Yes, the taxi service accepts cash as payment for services. Does that help answer all of your questions?"
     },
     {
         "target": true,
@@ -2060,17 +1818,6 @@
         "target": true,
         "knowledge": [
             {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 2
-            }
-        ],
-        "response": "You can cancel up to 24 hours before the booking, after that you may incur a fee. What else are you going to need?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
                 "domain": "train",
                 "entity_id": "*",
                 "doc_id": 11
@@ -2099,17 +1846,6 @@
             }
         ],
         "response": "You can park at the train station, but it may cost you a fee. When will you be leaving?"
-    },
-    {
-        "target": true,
-        "knowledge": [
-            {
-                "domain": "taxi",
-                "entity_id": "*",
-                "doc_id": 1
-            }
-        ],
-        "response": "You will get a booking confirmation through text message. Can I help you with anything further?"
     },
     {
         "target": true,

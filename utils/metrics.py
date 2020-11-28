@@ -4,7 +4,7 @@ from nltk import bigrams as get_bigrams
 from nltk import trigrams as get_trigrams
 from nltk import word_tokenize, ngrams
 from nltk.translate.bleu_score import sentence_bleu
-# from nltk.translate.meteor_score import single_meteor_score
+from nltk.translate.meteor_score import single_meteor_score
 from collections import Counter
 
 from .data import normalize
