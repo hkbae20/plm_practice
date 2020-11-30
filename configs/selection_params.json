@@ -2,7 +2,7 @@
   "dataset_args": {
     "n_candidates": 2,
     "eval_all_snippets": false,
-    "negative_sample_method": "oracle",
+    "negative_sample_method": "mix",
 
     "history_max_utterances": 1000000,
     "history_max_tokens": 128,
